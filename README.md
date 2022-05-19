@@ -10,8 +10,8 @@ Firebase.
 
 HTML | CSS | JavaScript.
 
-Connect with me:
+Connect with me:-
 (https://www.linkedin.com/in/ashish-shinde-6035a1211)
 
-Languages and Tools:
-C Cpp Css3 Sass Scss Nodejs Html5 Mysql AngularJS
+Languages and Tools:-
+C, Cpp, Css3, Sass, Scss, Nodejs, Html5, Mysql, AngularJS.
