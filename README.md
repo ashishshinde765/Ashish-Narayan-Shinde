@@ -6,8 +6,6 @@
 
 💙 I develop Dynamic Websites.
 
-Firebase.
-
 HTML | CSS | JavaScript.
 
 Connect with me:-
